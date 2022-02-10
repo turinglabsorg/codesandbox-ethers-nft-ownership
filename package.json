@@ -1,0 +1,18 @@
+{
+  "name": "web3-ownership",
+  "version": "1.0.0",
+  "description": "Web3 simple erc721 ownership checker",
+  "main": "src/index.js",
+  "dependencies": {
+    "ethers": "5.5.4"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
